@@ -1,0 +1,7 @@
+https://www.wikihow.com/Install-and-TortoiseSVN-and-Make-Your-First-Repository-Change
+https://tortoisesvn.net/docs/nightly/TortoiseSVN_en/tsvn-qs-guide.html
+
+http://www.zeusedit.com/agent/ide/ssms/ms_ssms.html
+
+https://knowledgebase.apexsql.com/link-sql-server-database-source-control-system/
+https://stackoverflow.com/questions/3793388/how-to-use-git-as-source-control-provider-for-sql-server-management-studio
